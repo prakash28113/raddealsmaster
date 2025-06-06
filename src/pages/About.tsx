@@ -24,10 +24,10 @@ const About = () => {
     },
     {
       id: 3,
-      name: "Shaik Mohammed Khaaza",
-      role: "Technical Director",
+      name: "Sk Md Khaza Mohiddin",
+      role: "Co-Founder & Technical Director",
       photo: "/api/placeholder/300/300",
-      bio: "Khaaza ensures our creative visions come to life with cutting-edge technology and seamless user experiences across all platforms.",
+      bio: "Khaza ensures our creative visions come to life with cutting-edge technology and seamless user experiences across all platforms.",
       linkedin: "https://linkedin.com/in/rajeshkumar",
       portfolio: "https://rajeshkumar.dev"
     }

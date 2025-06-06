@@ -140,9 +140,7 @@ const AdminLogin = () => {
                   {showPassword ? <EyeOff size={16} /> : <Eye size={16} />}
                 </button>
               </div>
-              <p className="text-xs text-raddeals-text mt-1">
-                Try password: Raddeals@28113
-              </p>
+          
             </div>
             
             <div className="text-right">
