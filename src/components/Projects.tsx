@@ -20,7 +20,7 @@ const Projects = () => {
       title: "E-commerce Campaign",
       category: "Digital",
       description: "Multi-platform campaign that drove 150% increase in conversions",
-      image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f",
+      image: "/campaign.png",
       tags: ["Digital", "Print"]
     },
     {
@@ -36,7 +36,7 @@ const Projects = () => {
       title: "Product Launch Kit",
       category: "Print",
       description: "Comprehensive print materials that supported successful product launch",
-      image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+      image: "/product.png",
       tags: ["Print", "Branding"]
     },
     {
@@ -52,7 +52,7 @@ const Projects = () => {
       title: "Annual Report Design",
       category: "Print",
       description: "Award-winning annual report design for Fortune 500 company",
-      image: "https://images.unsplash.com/photo-1605810230434-7631ac76ec81",
+      image: "/report.png",
       tags: ["Print", "Digital"]
     }
   ];

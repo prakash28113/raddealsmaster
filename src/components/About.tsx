@@ -24,7 +24,8 @@ const About = () => {
     { name: "Prakash Mummidisetti", role: "Creative Director", bio: "Known for blending strategy with storytelling across digital design, branding, and motion graphics." },
     { name: "Anirudh J.", role: "Full-stack Developer", bio: "Frontend & backend excellence" },
     { name: "Chaitanya M.", role: "UI/UX Designer", bio: "Crafting intuitive, user-centered digital experiences that blend form with function seamlessly." },
-    { name: "Harini ", role: "Ops Manager", bio: "Seamless project delivery" }
+    { name: "Harini ", role: "Ops Manager", bio: "Seamless project delivery" },
+    { name: "Sudheer ", role: "Prompt Engineer", bio: "Prompt Strategist" }
   ];
 
   return (
