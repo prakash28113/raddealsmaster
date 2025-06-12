@@ -70,7 +70,7 @@ const FlexiblePlans = () => {
 
         <div className="text-center mt-16">
           <a
-            href="/contact"
+            href="#contact"
             className="bg-raddeals-yellow text-raddeals-black px-8 py-4 rounded-lg font-inter font-semibold text-lg hover:bg-raddeals-yellow/90 transition-all duration-300 hover:scale-105 shadow-lg"
           >
             Book a Call

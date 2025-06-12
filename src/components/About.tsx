@@ -54,7 +54,7 @@ const About = () => {
               RadDeals is a full-stack creative agency helping businesses launch, scale, and stay unforgettable. From social posts to film production, we deliver speed, precision, and visual brilliance.
             </p>
             <a
-              href="#contact"
+              href="#careers"
               className="bg-raddeals-yellow text-raddeals-black px-8 py-4 rounded-lg font-inter font-semibold text-lg hover:bg-raddeals-yellow/90 transition-all duration-300 hover:scale-105 shadow-lg inline-block"
             >
               Work With Us
